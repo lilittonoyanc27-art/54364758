@@ -1,0 +1,6 @@
+{
+  "name": "Guía de Lengua y Literatura (Español - Հայերեն)",
+  "description": "Իսպաներեն և հայերեն լեզվի ու գրականության քննության ամբողջական ուղեցույց՝ ինտերակտիվ թարգմանություններով, օրինակներով, բանաստեղծական վերլուծությամբ և թեստերով։",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
